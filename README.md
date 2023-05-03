@@ -3,7 +3,7 @@
 ### I'm 21 years old, I'm Brazilian, I study systems analysis and development, I like to code, design and games. I'm dedicating myself to becoming a fullstack developer.
 
 - 🔭 I'm Currently looking for an internship vacancy
-- 🌱 I’m currently studing front-end, HTML5, CSS3 & JavaScript
+- 🌱 Currently studing front-end, HTML5, CSS3 & JavaScript
 - 😄 Pronouns: He/Him | Ele/Dele
 
 <div align="center">
