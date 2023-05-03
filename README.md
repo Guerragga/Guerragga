@@ -1,10 +1,9 @@
-### Hi there 🤗
-### My name is Gabriel Guerra
-### I'm a studant of Analysis and systems development
+## Hi there 🤗
+### My name is Gabriel Guerra, I'm 21 years old, I'm Brazilian, I study systems analysis and development, I like to code, design and games. I'm dedicating myself to becoming a fullstack developer.
 
 - 🔭 I'm Currently looking for an internship vacancy
-- 🌱 I’m currently learning Python, HTML5, CSS3
-- 😄 Pronouns: Ele/Dele
+- 🌱 I’m currently studing front-end, HTML5, CSS3 & JavaScript
+- 😄 Pronouns: He/Him | Ele/Dele
 
 <div align="center">
   <a href="https://github.com/guerragga">
