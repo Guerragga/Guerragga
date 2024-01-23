@@ -26,7 +26,7 @@
 <!-- Links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-guerra-b93238219/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guerragga_dev/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(guerra.gabrieldev@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](guerra.gabrieldev@gmail.com)
 
 <!-- GithubStats -->
 ![Guerragga GitHub stats](https://github-readme-stats.vercel.app/api?username=guerragga&show_icons=true&theme=graywhite)
