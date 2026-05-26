@@ -24,7 +24,6 @@
 - 💻 Focused on Full Stack Development, Backend, APIs and Process Automation  
 - 🔗 Experience with integrations involving CRMs, Google Sheets, Meta Ads, webhooks and internal tools  
 - 🚀 Currently improving my GitHub with practical projects, technical cases and real-world solutions  
-- 🎮 Also interested in games, RPG systems, animes, productivity tools and financial applications  
 
 ---
 
