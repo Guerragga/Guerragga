@@ -66,27 +66,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-> Some projects are being improved and documented as part of my professional portfolio.
-
-- [Portfolio Website](https://github.com/Guerragga/portfolio-website)  
-  Personal portfolio with light/dark theme and responsive interface.
-
-- [Parallax Effect Website](https://github.com/Guerragga/Parallax-Effect-Website)  
-  Front-end project exploring visual effects and page interaction.
-
-- OhMyCoin  
-  Personal finance system built with Flask and MySQL, focused on income, expenses, cards, debts, goals and dashboards.
-
-- RPG Dice Bot  
-  Python project idea focused on RPG dice rolls, game logic and future Discord bot integration.
-
-- Automation & API Cases  
-  Practical cases involving n8n, APIs, CRMs, Google Sheets, webhooks and lead management workflows.
-
----
-
 ## 🔥 Skills
 
 ### Programming Languages
