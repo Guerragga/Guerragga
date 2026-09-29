@@ -119,12 +119,9 @@ Much of my professional work is private, so this GitHub focuses on public projec
 </table>
 
 <p align="center">
-  <a href="https://github.com/Guerragga/nice-dice">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Guerragga&repo=nice-dice&theme=transparent&hide_border=true" alt="Nice Dice repository card">
-  </a>
-  <a href="https://github.com/Guerragga/my-portfolio">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Guerragga&repo=my-portfolio&theme=transparent&hide_border=true" alt="Portfolio repository card">
-  </a>
+  <a href="https://github.com/Guerragga/nice-dice"><strong>🎲 Explore Nice Dice →</strong></a>
+  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Guerragga/my-portfolio"><strong>💼 Explore Portfolio →</strong></a>
 </p>
 
 ---
