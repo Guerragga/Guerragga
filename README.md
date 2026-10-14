@@ -7,7 +7,7 @@
 **Recife, PE — Brazil 🇧🇷**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guerragga/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Projects-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guerragga/my-portfolio)
+[![OhMyCoin](https://img.shields.io/badge/OhMyCoin-View_Project-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guerragga/OhMyCoin)
 [![Email](https://img.shields.io/badge/Email-Let's_talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guerra.gabrieldev@gmail.com)
 
 <br>
@@ -108,12 +108,12 @@ Much of my professional work is private, so this GitHub focuses on public projec
       <strong>Python • Discord API • Testing • i18n</strong>
     </td>
     <td width="50%" valign="top">
-      <h3>🧑‍💻 <a href="https://github.com/Guerragga/my-portfolio">Professional Portfolio</a></h3>
-      Personal portfolio designed as a recruiter-focused technical showcase.
+      <h3>💰 <a href="https://github.com/Guerragga/OhMyCoin">OhMyCoin</a></h3>
+      Personal finance management application built with Python, Flask and MySQL.
       <br><br>
-      Built with semantic HTML, CSS and JavaScript, with attention to responsive design, accessibility, performance, keyboard navigation and reduced-motion preferences.
+      Features accounts, transactions, budgets, credit-card installments, debts and savings goals, with a responsive dashboard, financial business rules, authentication and security controls, automated tests and CI.
       <br><br>
-      <strong>HTML • CSS • JavaScript • Accessibility</strong>
+      <strong>Python • Flask • MySQL • Pytest • Docker • GitHub Actions</strong>
     </td>
   </tr>
 </table>
@@ -121,7 +121,7 @@ Much of my professional work is private, so this GitHub focuses on public projec
 <p align="center">
   <a href="https://github.com/Guerragga/nice-dice"><strong>🎲 Explore Nice Dice →</strong></a>
   &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Guerragga/my-portfolio"><strong>💼 Explore Portfolio →</strong></a>
+  <a href="https://github.com/Guerragga/OhMyCoin"><strong>💰 Explore OhMyCoin →</strong></a>
 </p>
 
 ---
